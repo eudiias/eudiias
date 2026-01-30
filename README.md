@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Carlos Dias
 
-**`Desenvolvedor Back-End`**
+### `Desenvolvedor Back-End`
 
 Olá, me chamo Carlos Dias de Oliveira Nascimento. Sou um desenvolvedor Back-End apaixonado por arquitetura de sistemas e solução de problemas complexos. Atualmente, curso Desenvolvimento de Software Multiplataforma na Fatec Osasco, onde aprofundo meus conhecimentos técnicos e teóricos.".
 
@@ -75,23 +75,3 @@ Olá, me chamo Carlos Dias de Oliveira Nascimento. Sou um desenvolvedor Back-End
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>

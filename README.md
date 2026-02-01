@@ -2,7 +2,7 @@
 
 ### `Desenvolvedor Back-End`
 
-Olá, me chamo Carlos Dias de Oliveira Nascimento. Sou um desenvolvedor Back-End apaixonado por arquitetura de sistemas e solução de problemas complexos. Atualmente, curso Desenvolvimento de Software Multiplataforma na Fatec Osasco, onde aprofundo meus conhecimentos técnicos e teóricos.".
+Olá, me chamo Carlos Dias de Oliveira Nascimento. Sou um desenvolvedor Back-End apaixonado por arquitetura de sistemas e solução de problemas complexos. Atualmente, curso Desenvolvimento de Software Multiplataforma na Fatec Osasco, onde aprofundo meus conhecimentos técnicos e teóricos.
 
 ---
 

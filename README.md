@@ -32,7 +32,7 @@ Atuo hoje na área de atendimento e operações na PetRio, e venho migrando minh
 ### 🧮 Jogo de xadrez em java.
 Repositório de estudo com implementações e resolução de lógica, algoritmos e estruturas de dados em Java.
 
-🔗 [->link do repositório<-](https://www.linkedin.com/in/carlos-diias/)
+🔗 [->link do repositório<-](https://github.com/eudiias/chess-system-java)
 
 ---
 

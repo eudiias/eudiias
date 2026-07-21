@@ -1,77 +1,54 @@
-# 👩🏻‍💻 Carlos Dias
+# Olá, eu sou o Dias 👋
 
-### `Desenvolvedor Back-End`
+**Desenvolvedor de software** cursando **Desenvolvimento de Software Multiplataforma (DSM)** na FATEC Osasco, em busca de uma oportunidade de **estágio em desenvolvimento back-end (Java)** na Grande São Paulo.
 
-Olá, me chamo Carlos Dias de Oliveira Nascimento. Sou um desenvolvedor Back-End apaixonado por arquitetura de sistemas e solução de problemas complexos. Atualmente, curso Desenvolvimento de Software Multiplataforma na Fatec Osasco, onde aprofundo meus conhecimentos técnicos e teóricos.
+Atuo hoje na área de atendimento e operações na PetRio, e venho migrando minha trajetória para o desenvolvimento de software, com foco em construir uma base sólida em back-end antes de me especializar ainda mais.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Stack e ferramentas
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+**Back-end**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
-<br/>
-<br/>
+**Banco de dados**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Front-end**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Outros**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker(Basico)](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 🧮 Jogo de xadrez em java.
+Repositório de estudo com implementações e resolução de lógica, algoritmos e estruturas de dados em Java.
+
+🔗 [->link do repositório<-](https://www.linkedin.com/in/carlos-diias/)
+
+---
+
+## 🎓 Formação
+
+**FATEC Osasco** — Desenvolvimento de Software Multiplataforma (Tecnólogo)
+Previsão de conclusão: Jul/2028
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [carlos-diias](https://www.linkedin.com/in/carlos-diias/)
+- E-mail: carlos.dias.o.n@gmail.com
+
+---
+<div align="center">
+<i>Aberto a oportunidades de estágio em desenvolvimento back-end Java 🚀</i>
+</div>

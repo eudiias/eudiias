@@ -65,6 +65,17 @@ Repositório de estudo com implementação de um sistema de xadrez em Java, apli
 
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+### ♟️ DeployTracker
+
+Uma plataforma completa (Full-Stack) construída para rastrear, auditar e exibir o histórico de deploys das suas aplicações em tempo real, utilizando webhooks do GitHub.
+
+**[→ Ver repositório](https://github.com/eudiias/deploytracker)**
+
+</td>
+</tr>
 </table>
 
 <br>
